@@ -1,1 +1,1 @@
-# Weather Application Made using python tkinter and weatherAPI
+# Weather Application Develop using python tkinter and weatherAPI
